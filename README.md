@@ -132,11 +132,11 @@ Coming Soon...
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/affan-hussain/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:affanhussain015@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
