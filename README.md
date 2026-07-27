@@ -2,144 +2,136 @@
 
 # Hi 👋 I'm Affan Hussain
 
-### 📱 React Native Developer • 💻 Full Stack Developer • 🤖 Future AI Engineer
+### 📱 React Native Developer &nbsp;•&nbsp; 💻 Full Stack Developer &nbsp;•&nbsp; 🤖 Aspiring AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=React+Native+Developer;Full+Stack+Developer;Learning+Artificial+Intelligence;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=React+Native+Developer;Shipping+Apps+to+App+Store+%26+Play+Store;Full+Stack+Developer;Learning+AI+%26+Machine+Learning;Always+Building%2C+Always+Learning" alt="Typing SVG" />
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-🚀 Passionate about building modern mobile applications.
-
-💻 Working with **React Native, React.js, Node.js & MongoDB**
-
-🤖 Currently learning
-
-- Python
-- NumPy
-- Pandas
-- Machine Learning
-- Artificial Intelligence
-
-🎯 Goal
-
-Become an **AI Engineer** while continuing to build high-quality mobile applications.
+- 📱 React Native Developer with **5+ production apps** live on the App Store & Play Store
+- 💻 Working with **Expo, TypeScript, Firebase, Redux Toolkit & Node.js**
+- 💳 Experienced in **in-app payments** (Stripe, RevenueCat) and **auth flows** (Apple Login, Google OAuth)
+- 🤖 Currently diving into **AI & Machine Learning** (Agentic AI @ SMIT)
+- 🎯 Goal: Become an **AI Engineer** while continuing to build high-quality mobile apps
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,python"/>
-</p>
-
-### Frontend
+**Mobile**
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js" alt="Mobile" />
 </p>
 
-### Backend
+_React Native (CLI & Expo) · Expo Router · React Navigation · Reanimated · Lottie · Gifted Charts_
+
+**Frontend**
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" alt="Frontend" />
 </p>
 
-### Database
+**Backend & Database**
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,supabase"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase" alt="Backend & Database" />
 </p>
 
-### Tools
+**Payments & Auth**
+
+_Stripe · RevenueCat · Apple Login · Google OAuth · Firebase Auth_
+
+**Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" alt="Tools" />
 </p>
+
+**Familiar With**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,docker,aws" alt="Familiar With" />
+</p>
+
+_NumPy · Pandas · CI/CD · AI-Assisted Development (Claude Code)_
 
 ---
 
-# 📊 GitHub Stats
+## 💼 Experience
+
+**React Native Developer** — AppCraftr `Dec 2025 – Present`
+> Shipping production iOS & Android apps with Expo + TypeScript. Integrating Stripe, RevenueCat, OAuth, push notifications & OTA updates.
+
+**React Native Developer** — HnH Soft Tech Solution `Aug 2025 – Nov 2025`
+> Built mobile screens with React Native CLI, integrated REST APIs, and delivered clean, reusable component architecture.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **📚 Kiitab** | Student LMS app for Arabic letter learning with real-time audio review between students & tutors | Expo, TypeScript, Firebase, Stripe, RevenueCat |
+| **📊 Mat** | Data-driven analytics app with interactive bar, donut & line charts | React Native CLI, Gifted Charts |
+| **💬 The Closing Table** | Full-featured production app with real-time chat functionality | React Native CLI, React Navigation |
+| **🧾 PayBue** | Invoice generation app for creating, managing & sharing digital invoices | React Native CLI |
+| **🔧 HandyMan** | Pixel-perfect service-booking app built from Figma with reusable components | React Native CLI, Figma |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AffanHussain15&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffanHussain15&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AffanHussain15&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffanHussain15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AffanHussain15&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=AffanHussain15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AffanHussain15&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=AffanHussain15&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Python
-- NumPy
-- Pandas
-- Data Science
+`Python` &nbsp; `NumPy` &nbsp; `Pandas` &nbsp; `Machine Learning` &nbsp; `Deep Learning` &nbsp; `Agentic AI`
 
 ---
 
-# 🚀 Featured Projects
-
-Coming Soon...
-
-- 📱 React Native Apps
-- 🤖 AI Projects
-- 🌐 Full Stack Applications
-
----
-
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AffanHussain15&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AffanHussain15&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/affan-hussain/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:affanhussain015@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/affan-hussain/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:affanhussain015@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 </p>
 
 ---
