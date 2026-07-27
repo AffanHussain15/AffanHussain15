@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-- 📱 React Native Developer with **5+ production apps** live on the App Store & Play Store
+- 📱 React Native Developer with **2+ production apps** live on the App Store & Play Store
 - 💻 Working with **Expo, TypeScript, Firebase, Redux Toolkit & Node.js**
 - 💳 Experienced in **in-app payments** (Stripe, RevenueCat) and **auth flows** (Apple Login, Google OAuth)
 - 🤖 Currently diving into **AI & Machine Learning** (Agentic AI @ SMIT)
